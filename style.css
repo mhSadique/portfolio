@@ -17,7 +17,7 @@ body {
 }
 .para {
     color: #3E3E3E;
-    text-transform: capitalize;
+    text-transform: lowercase;
     font-weight: 300;
 }
 button {
