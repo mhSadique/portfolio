@@ -4,6 +4,7 @@ body {
 }
 .sec-first {
     margin-bottom: 30px;
+    overflow: auto;
 }
 .top-header {
     color: #363958;
@@ -56,11 +57,15 @@ button {
 .sec-second {
     float: left;
     clear: right;
-    margin-bottom: 100px;
+    margin-bottom: ;
+    overflow: auto;
 }
 .sec-third{
     font-family: 'Roboto', sans-serif;
-    margin-bottom: 1000px;
+    margin-bottom: 100px;
+    float: left;
+    clear: right;
+    overflow: auto;
 }
 .sec-third p {
     font-size: 8px;
@@ -89,6 +94,5 @@ button {
     float: left;
     clear: right; 
 }
-
 
 
