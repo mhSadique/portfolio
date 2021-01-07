@@ -59,6 +59,7 @@ button {
     clear: right;
     margin-bottom: ;
     overflow: auto;
+    margin-bottom: 100px;
 }
 .sec-third{
     font-family: 'Roboto', sans-serif;
@@ -66,6 +67,8 @@ button {
     float: left;
     clear: right;
     overflow: auto;
+    background-color: #F8F9FC;
+    padding-bottom: 130px;
 }
 .sec-third p {
     font-size: 8px;
@@ -78,21 +81,65 @@ button {
     color: #363958;
 }
 .project {
-    width: 28%;
+    width: 25%;
     float: left;
-    padding: 2%;
-    border: ;
+    overflow: auto;
+    margin: 2%;
+    padding: 5px;
+    border: 10px solid white;
+    border-radius: 10px;
 }
 .project img {
     width: 100%;
 }
 .project-wrapper {
     padding: 15%;
+    padding-top: 30px;
+}
+.project-header {
+    padding-top: 50px;
+    font-family: 'Bebas Neue', cursive;
+    color: #363958;
+    font-size: 30px;
+}
+.highlighted {
+    color: #F46060;
 }
 .sec-third h3 {
     text-align: center;
-    float: left;
-    clear: right; 
 }
-
+.clear {
+    clear: both;
+}
+.inquiry {
+    background-image: url("img/34.png");
+    background-repeat: no-repeat;
+    width: 50%;
+    height: 100px;
+    margin: 0 auto;
+    border-radius: 20px;
+}
+.text {
+    float: left;
+    color: white;
+    font-size: 35px;
+    padding-left: 30px;
+}
+.btn {
+    float: right;
+    margin-top: 12px;
+    margin-right: 10px;
+    padding: 10px 20px;
+    border: none;
+}
+.contact {
+    text-align: center;
+    color: #363958;
+    font-weight: 300;
+}
+.connect {
+    text-align: center;
+    color: #696871;
+    font-size: 12px;
+}
 
