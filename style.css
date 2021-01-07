@@ -53,3 +53,42 @@ button {
     font-weight: 400;
     margin-bottom: 0;
 }
+.sec-second {
+    float: left;
+    clear: right;
+    margin-bottom: 100px;
+}
+.sec-third{
+    font-family: 'Roboto', sans-serif;
+    margin-bottom: 1000px;
+}
+.sec-third p {
+    font-size: 8px;
+    font-weight: 100;
+    color: #909090;
+}
+.sec-third h4 {
+    font-size: 10px;
+    font-weight: 600;
+    color: #363958;
+}
+.project {
+    width: 28%;
+    float: left;
+    padding: 2%;
+    border: ;
+}
+.project img {
+    width: 100%;
+}
+.project-wrapper {
+    padding: 15%;
+}
+.sec-third h3 {
+    text-align: center;
+    float: left;
+    clear: right; 
+}
+
+
+
